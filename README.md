@@ -21,7 +21,8 @@ CSS - Styling and layout
   4. Project Structure
 The project consists of the following files and folders:
   index.html - The main HTML file containing the structure of the news blog.
-  README.md - This file, providing project details and instructions.
+  README.md - The file providing project details and instructions.
+  images - The folder that contains all the pictures used in the website. This includes the logo, news article images, and any other visual content that appears on the pages.s
 
   5. Preview
 The website displays:
